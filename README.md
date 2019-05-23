@@ -1,7 +1,7 @@
 netstar
 ========
 
-This repository contains the netstar framework for building asynchronous network functions.
+This repository contains the netstar framework for building asynchronous network functions. A detailed description of NetStar's architecture and use cases can be found in paper: https://ieeexplore.ieee.org/document/8635508.
 
 Installation
 ------------
